@@ -48,4 +48,4 @@ or <a href="mailto:ariel.guzman01@gmail.com"><b>email</b></a> me.
 
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arielgpe&repo=ride-share)](https://github.com/arielgpe/ride-share)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arielgpe&repo=ride-share&show_owner=true)](https://github.com/arielgpe/ride-share)
