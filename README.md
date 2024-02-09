@@ -12,6 +12,8 @@ or <a href="mailto:ariel.guzman01@gmail.com"><b>email</b></a> me.
 
 </div>
 
+<br>
+<br>
 <div align="center">
 
 [//]: # (<picture>)
