@@ -1,7 +1,8 @@
 <div align="center">
 <h2> Hi there! </h2>
 </div>
-
+<div align="center">
+<br>
 I'm a Front-End-heavy Full-stack developer with 10+ years of experience with library/frameworks like React (Nextjs), Angular and Ionic. <br>
 Experienced with Node using frameworks like Express and NestJS. Comfortable writing complex Mongo queries.<br>
 If you have any questions or feedback leave them <a href="https://github.com/arielgpe/arielgpe/issues/new"><b>here</b></a><br>
